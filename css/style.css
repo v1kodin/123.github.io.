@@ -689,6 +689,7 @@ nav {
   .footer_wrapper {
     padding-top: 22px; }
   .footer_wrapper > div {
+    width: 100%;
     margin-bottom: 22px; }
     .footer_wrapper > div:nth-child(1) {
       order: 2; }
